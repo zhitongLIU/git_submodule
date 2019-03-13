@@ -1,5 +1,5 @@
 class Person
   def hi
-    puts 'hello'
+    puts 'ciao'
   end
 end
